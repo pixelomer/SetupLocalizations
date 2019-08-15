@@ -12,7 +12,7 @@
 "HELPER_ERROR_2”=“Fișierul passwd nu poate fii accesat.";
 "HELPER_ERROR_4"="Parola dvs. nu a putut fi criptată.";
 "HELPER_ERROR_5"="Fișierul passwd este corupt.";
-"HELPER_ERROR_6"="Failed to become root.";
+"HELPER_ERROR_6"="Nu s-au putut obține privilegii root.";
 "MOBILE_DESCRIPTION"=“\”mobile\” este un alt cont de sistem pe dispozitivele iOS. Cu toate că acest cont nu are atât de multe privilegii ca și contul root, acesta poate accesa o mulțime de informații personale. Recomandăm tuturor schimbarea parolei pentru acest cont, din moment ce parola default este aceeași ca și pentru contul root.";
 "NEW_PASSWORD"="Parolă Nouă";
 "NEXT"="Următorul";
@@ -35,4 +35,4 @@
 "WARNING"="Atenționare";
 “WELCOME_DESCRIPTION"="Procesul inițial de jailbreak a fost completat. Mai sunt doar câțiva pași până la finalizare.";
 "WELCOME_TITLE"="Jailbreak inițial completat!";
-"WELCOME_TO_DEVICE"="Bine ai venit la @a”;
+"WELCOME_TO_DEVICE"="Bine ai venit la %@”;
