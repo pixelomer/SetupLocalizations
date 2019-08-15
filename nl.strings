@@ -4,14 +4,14 @@
 "ARE_YOU_SURE"="Weet u het zeker?";
 "ASCII_CHARACTERS_ONLY_MESSAGE"="Alleen ASCII karakters zijn toegestaan.";
 "CANCEL"="Annuleer";
-"CONTINUE"="Doorgaan";
+"CONTINUE"="Ga door";
 "EMPTY_PASSWORD_MESSAGE"="Het wachtwoordveld mag niet leeg zijn.";
 "GET_STARTED"="Begin";
 "HELPER_CANNOT_BE_FOUND"="De helper kan niet gevonden worden.";
 "HELPER_COULDNT_BE_LAUNCHED"="De helper kan niet gestart worden.";
 "HELPER_ERROR_2"="Geen toegang tot het passwd bestand.";
 "HELPER_ERROR_4"="Hashen van wachtwoord is mislukt.";
-"HELPER_ERROR_5"="Het passwd bestand is corrupt..";
+"HELPER_ERROR_5"="Het passwd bestand is corrupt.";
 "HELPER_ERROR_6"="Root toegang krijgen is mislukt.";
 "MOBILE_DESCRIPTION"="\"mobile\" is een ander systeem account op iOS apparaten. Ondanks dat dit account niet dezelfde rechten heeft als het root account kan het nog steeds toegang verschaffen tot veel persoonlijke informatie. Het is voor iedereen aanbevolen dit wachtwoord te wijzigen aangezien het standaard wachtwoord hetzelfde is als het root account.";
 "NEW_PASSWORD"="Nieuw wachtwoord";
