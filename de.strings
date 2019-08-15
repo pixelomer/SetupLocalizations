@@ -7,7 +7,7 @@
 "CONTINUE"="Weiter";
 "EMPTY_PASSWORD_MESSAGE"="Das Passwort darf nicht leer sein.";
 "GET_STARTED"="Los gehts!";
-"HELPER_CANNOT_BE_FOUND"="Helfer kann nicht gefunden werden.";
+"HELPER_CANNOT_BE_FOUND"="Der Helfer kann nicht gefunden werden.";
 "HELPER_COULDNT_BE_LAUNCHED"="Der Helfer kann nicht gestartet werden.";
 "HELPER_ERROR_2"="Es kann nicht auf die passwd Datei zugegriffen werden.";
 "HELPER_ERROR_4"="Das Passwort konnte nicht gehasht werden.";
