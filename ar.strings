@@ -8,7 +8,7 @@
 "EMPTY_PASSWORD_MESSAGE"="كلمة السر لا يمكن أن تكون فارغة. ";
 "GET_STARTED"="إبدأ";
 "HELPER_CANNOT_BE_FOUND"="لم يتم العثور على المساعد .";
-"HELPER_COULDNT_BE_LAUNCHED"="فشل العثور على مساعد .";
+"HELPER_COULDNT_BE_LAUNCHED"="فشل بدأالمساعد .";
 "HELPER_ERROR_2"="فشل الوصول إلى ملف ال passwd .";
 "HELPER_ERROR_4"="فشلت عملية تجزئة كلمة السر .";
 "HELPER_ERROR_5"="ملف ال passwd غير صالح .";
