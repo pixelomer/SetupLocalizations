@@ -13,7 +13,7 @@
 "HELPER_ERROR_4"="Impossibile calcolare l'hash della password.";
 "HELPER_ERROR_5"="Il file passwd è corrotto.";
 "HELPER_ERROR_6"="Impossibile diventare utente root.";
-"MOBILE_DESCRIPTION"="\"mobile\" è un'altra utenza di sistema presente nei dispositivi iOS. Sebbene questa utenza non abbia molti privilegi come l'utenza root, questa può comunque accedere a numerose informazioni personali. E' raccomandato a tutti di cambiare la password dato che la password predefinita è uguale alla quella utilizzata per l'utenza root.";
+"MOBILE_DESCRIPTION"="\"mobile\" è un'altra utenza di sistema presente nei dispositivi iOS. Sebbene questa utenza non abbia molti privilegi come l'utenza root, questa può comunque accedere a numerose informazioni personali. È raccomandato a tutti di cambiare la password dato che la password predefinita è uguale alla quella utilizzata per l'utenza root.";
 "NEW_PASSWORD"="Nuova Password";
 "NEXT"="Successivo";
 "OK"="OK";
@@ -33,6 +33,6 @@
 "UNKNOWN_ERROR"="Si è verificato un errore sconosciuto.";
 "VERIFY"="Verifica";
 "WARNING"="Attenzione";
-"WELCOME_DESCRIPTION"="Il jailbreak è stao eseguito con successo. Occorreranno alcuni ulteriori passaggi per poter iniziare.";
+"WELCOME_DESCRIPTION"="Il jailbreak è stato eseguito con successo. Occorreranno alcuni ulteriori passaggi per poter iniziare.";
 "WELCOME_TITLE"="Jailbreak Completato";
 "WELCOME_TO_DEVICE"="Benvenuto su %@";
