@@ -6,14 +6,14 @@
 "CANCEL"="İptal";
 "CONTINUE"="Devam Et";
 "EMPTY_PASSWORD_MESSAGE"="Şifre boş olamaz.";
-"GET_STARTED"="Başlat";
+"GET_STARTED"="Başla";
 "HELPER_CANNOT_BE_FOUND"="Yardımcı program bulunamadı.";
 "HELPER_COULDNT_BE_LAUNCHED"="Yardımcı program başlatılamadı.";
 "HELPER_ERROR_2"="\"passwd\" dosyası açılamadı.";
 "HELPER_ERROR_4"="Parola şifrelenirken bir hata oluştu.";
 "HELPER_ERROR_5"="\"passwd\" dosyası geçersiz.";
 "HELPER_ERROR_6"="Yardımcı program başlatılamadı.";
-"MOBILE_DESCRIPTION"="\"mobile\" kullanıcısı, iOS işletim sistemindeki bir sistem kullanıcısıdır. \"root\" kullanıcısı kadar fazla izne sahip olmasa da birçok özel verilerinizi okuyabilir. Bundan dolayı şifresini değiştirmenizi öneririz.";
+"MOBILE_DESCRIPTION"="\"mobile\" hesabı, iOS işletim sistemindeki başka bir sistem hesabıdır. \"root\" hesabı kadar fazla izne sahip olmasa da birçok özel verilerinizi okuyabilir. Bundan dolayı şifresini değiştirmeniz şiddetle tavsiye edilir.";
 "NEW_PASSWORD"="Yeni Parola";
 "NEXT"="Sonraki";
 "OK"="Tamam";
@@ -25,7 +25,7 @@
 "PASSWORDS_WELCOME_TITLE"="Cihazınızı Güvende Tutun";
 "PASSWORD_TITLE_FORMAT"="%@ parolası";
 "RETYPE_PASSWORD"="Tekrar yazın";
-"ROOT_DESCRIPTION"="\"root\", cihazınızdaki her dosyaya erişimi olan bir sistem hesabıdır. Bu hesabın parolası, \"mobile\" parolası gibi her cihazda aynıdır ve herkes bu hesaba uzaktan bağlanabilir. Bu şifreyi değiştirmeniz şiddetle tavsiye edilir."
+"ROOT_DESCRIPTION"="\"root\", cihazınızdaki her dosyaya erişimi olan bir sistem hesabıdır. Bu hesabın parolası, \"mobile\" parolası gibi her cihazda aynıdır ve herkes bu hesaba uzaktan bağlanabilir. Bu şifreyi değiştirmeniz şiddetle tavsiye edilir.";
 "SETUP_FAILURE_MESSAGE"="Kurulum tamamlanamadı. SpringBoard yeniden başlatılınca tekrar başlatılacaktır.";
 "SKIP"="Atla";
 "START_OVER"="Baştan Başla";
