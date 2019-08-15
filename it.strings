@@ -19,7 +19,7 @@
 "OK"="OK";
 "PASSWORD"="Password";
 "PASSWORDS_DONT_MATCH_MESSAGE"="Le password non corrispondono.";
-"PASSWORDS_SKIP_ALERT_MESSAGE"="Saltare questo passaggio lascierà il tuo dispositivo insicuro. Chiunque nella stessa rete sarà in grado di accedere al tuo dispositivo.";
+"PASSWORDS_SKIP_ALERT_MESSAGE"="Saltare questo passaggio lascerà il tuo dispositivo insicuro. Chiunque nella stessa rete sarà in grado di accedere al tuo dispositivo.";
 "PASSWORDS_WELCOME_DESCRIPTION"="Normalmente, ogni dispositivo iOS utilizza le stesse password per le utenze di sistema. Chiunque può accedere da remoto al tuo dispositivo utilizzando queste password, se prosegui potrai modificarle in modo semplice.";
 "PASSWORDS_WELCOME_SKIP"="Modifica In Seguito";
 "PASSWORDS_WELCOME_TITLE"="Mantieni Il Tuo Dispositivo Sicuro";
